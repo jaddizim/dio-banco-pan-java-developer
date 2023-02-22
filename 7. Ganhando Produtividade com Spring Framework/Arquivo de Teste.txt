@@ -1,0 +1,1 @@
+Criação de arquivo de teste para comprovar a efetivação do Desafio "Criando seu Primeiro Repositório no Github para Compartilhar seu Progresso".
